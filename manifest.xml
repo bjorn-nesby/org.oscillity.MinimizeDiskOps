@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>MinimizeDiskOps</Name>
+  <Id>org.oscillity.MinimizeDiskOps</Id>
+  <Version>1</Version>
+  <ApiVersion>4</ApiVersion>
+  <Author>oscillity | bjorn.nesby@gmail.com</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>Quick and dirty</Category>
+  <Description>When enabled, will minimize the Disk Options after having loaded or created a new song.</Description>
+  <Homepage/>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
